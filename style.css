@@ -261,7 +261,50 @@ header nav ul li:hover a {
     -moz-transform: translateX(800px) rotateY(90deg)
 }
 
+.zoya{
+    position: absolute;
+    top: 1px;
 
+    height: 250px;
+    width: 200px;
+    background-image: url(file:///home/diana/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/Menu/menu-master/Zoya.jpg);
+    background-size:100%; 
+    margin-top: 100px;
+    margin-left:50px; 
+
+}
+
+
+.tele{
+    height: 80px;
+    width: 1000px;
+    margin-top: 200px;
+    margin-left: 250px;
+    position: absolute;
+    top: 1px;
+
+
+}
+.otst{
+  margin-left:600px; 
+}
+
+
+.dad{
+    margin-right:800px; 
+
+}
+
+
+.info{
+    position: absolute;
+        top: 1px;
+    height:100px; 
+    width:500px;
+    margin-left: 300px;
+    margin-top: 100px;
+    font-size: 20px;
+}
 
 .footer{
     margin-top:600px; 
@@ -278,7 +321,7 @@ header nav ul li:hover a {
 }
 
 .top {
-    background-image: url(file:///C:/Users/user/Desktop/maxresdefault.jpg);
+    background-image: url(file:///home/diana/%D0%A1%D1%82%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8F/Menu/menu-master/zbiki.jpg);
     background-size: 100%; 
 
 }
